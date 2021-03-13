@@ -1,0 +1,9 @@
+selenium
+pytest
+allure-pytest
+html-testRunner
+openpyxl
+pytest-ordering
+pytest-xdist
+PyAutoIt
+webdriver-manager
